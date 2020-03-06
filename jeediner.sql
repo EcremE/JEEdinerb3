@@ -21,7 +21,7 @@ SET time_zone = "+00:00";
 --
 -- Base de données :  `jeediner`
 --
-
+CREATE DATABASE jeediner;
 -- --------------------------------------------------------
 
 --
