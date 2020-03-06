@@ -75,7 +75,8 @@ INSERT INTO `produit` (`id`, `nom`, `description`, `prix`, `categorie`) VALUES
 --
 -- Structure de la table `utilisateurs`
 --
-DROP TABLE IF EXISTS `utilisateurs`
+DROP TABLE IF EXISTS `utilisateurs`;
+
 CREATE TABLE `utilisateurs` (
   `id` int(11) NOT NULL,
   `nom` varchar(45) DEFAULT NULL,
