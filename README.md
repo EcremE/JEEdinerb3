@@ -1,4 +1,4 @@
-# SrcDiner
+# RetroDiner
 Repo SRC Diner JEE
 Création d’une application de commerce en ligne devant, à minima, contenir :
 
